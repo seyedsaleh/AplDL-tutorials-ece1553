@@ -80,3 +80,5 @@ testing/
 # Models
 *.pt
 .idea/
+
+*.docx
